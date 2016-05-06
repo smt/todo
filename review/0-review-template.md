@@ -12,6 +12,9 @@
 
 ## Things I'll do next week:
 
+- [ ] Call Mom
+- [ ] Write blog post
+
 ## Things I'll read/watch next week:
 
 ### Week in review
