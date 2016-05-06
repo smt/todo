@@ -8,6 +8,12 @@ accountability, and versioning. Heavily inspired by [Una Kravets].
 
 ## Overarching Goals for 2016
 
+1. Haskell
+2. Write weekly
+3. Prioritize health
+4. Improve soft skills
+5. Quality time with family
+
 ## -- date here --
 
 ### This week's focus:
