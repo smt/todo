@@ -2,7 +2,9 @@ todo
 ====
 
 Personal goals and todo lists made open source for transparency,
-accountability, and versioning. Heavily inspired by [Una Kravets].
+accountability, and versioning.
+
+Heavily inspired by [Una Kravets].
 
   [Una Kravets]: http://una.im/personal-goals-guide
 
