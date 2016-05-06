@@ -2,7 +2,7 @@
 
 ## Side projects started
 
-- [ ] <imgg.es>
+- [ ] imgg.es
 - [ ] NomNom
 - [ ] Fiji
 
