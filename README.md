@@ -14,11 +14,22 @@ accountability, and versioning. Heavily inspired by [Una Kravets].
 4. Improve soft skills
 5. Quality time with family
 
-## -- date here --
+## May 09, 2016
 
-### This week's focus:
+### This week's focus: Connect the dots
+
+- [ ] Call Mom
+- [ ] Write blog post
 
 ### This week's reading list:
+
+- [ ] [Haskell Book] - Chapter 7: "More functional patterns"
+- [ ] Brush up on [redux-saga docs]
+- [ ] Binge on management articles on [Rands in Repose]
+
+  [Haskell Book]: http://haskellbook.com
+  [redux-saga docs]: http://yelouafi.github.io/redux-saga/
+  [Rands in Repose]: http://randsinrepose.com/archives/category/management/
 
 ### Things I'll do in the future:
 
