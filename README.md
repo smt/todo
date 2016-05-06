@@ -46,4 +46,14 @@ accountability, and versioning. Heavily inspired by [Una Kravets].
 
 ### Things I'll do in the future:
 
+- [ ] Get my RSS feeds under control
+- [ ] Corale my Twitter followings
+- [ ] Play with [Huginn]
+- [ ] Build an app with [Elixir]
+- [ ] Build an app with [Elm]
+
+  [Huginn]: https://github.com/cantino/huginn
+  [Elixir]: http://elixir-lang.org/
+  [Elm]: http://elm-lang.org/
+
 ### Backlog: Side projects & other ideas:
