@@ -5,8 +5,8 @@ here by month.
 
 ## May 2016
 
-- [ ] _[Haskell Programming from First Principles]_
-- [ ] _Snow Crash_ by Neal Stephenson
-- [ ] _Fever Pitch_ by Nick Hornby
+- [ ] Haskell Programming from First Principles ([link][1])
+- [ ] Snow Crash &ndash; Neal Stephenson
+- [ ] Fever Pitch &ndash; Nick Hornby
 
-  [Haskell Programming from First Principles]: http://haskellbook.com
+  [1]: http://haskellbook.com
