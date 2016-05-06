@@ -57,3 +57,5 @@ accountability, and versioning. Heavily inspired by [Una Kravets].
   [Elm]: http://elm-lang.org/
 
 ### Backlog: Side projects & other ideas:
+
+- [Blog Post Ideas](https://github.com/smt/todo/blob/master/backlog/post-ideas.md)
