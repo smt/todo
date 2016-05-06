@@ -20,6 +20,19 @@ accountability, and versioning. Heavily inspired by [Una Kravets].
 
 - [ ] Call Mom
 - [ ] Write blog post
+- [ ] Hear [quidmonkey]'s talk at [Philly Lambda]
+- [ ] Be on the lookout for nearby inspiration
+- [ ] Get some of my board games ready to auction off
+- [ ] Redirect <stephentudor.com> to <smt.io>
+- [ ] Test old blog post rewrites
+- [ ] Evaluate CDN/edge caching & invalidation for <smt.io>
+- [ ] Decide whether it's worth it to integrate with Disqus
+- [ ] Run PageSpeed tests on <smt.io>
+- [ ] Commit my [dotfiles] changes - they're getting a little hairy
+
+  [quidmonkey]: https://github.com/quidmonkey
+  [Philly Lambda]: http://www.meetup.com/Philly-Lambda/events/230810382/
+  [dotfiles]: https://github.com/smt/dotfiles
 
 ### This week's reading list:
 
