@@ -58,4 +58,5 @@ accountability, and versioning. Heavily inspired by [Una Kravets].
 
 ### Backlog: Side projects & other ideas:
 
+- [App & Project Ideas](https://github.com/smt/todo/blob/master/backlog/app-ideas.md)
 - [Blog Post Ideas](https://github.com/smt/todo/blob/master/backlog/post-ideas.md)
