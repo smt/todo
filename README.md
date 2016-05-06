@@ -60,3 +60,4 @@ accountability, and versioning. Heavily inspired by [Una Kravets].
 
 - [App & Project Ideas](https://github.com/smt/todo/blob/master/backlog/app-ideas.md)
 - [Blog Post Ideas](https://github.com/smt/todo/blob/master/backlog/post-ideas.md)
+- [Master Reading List](https://github.com/smt/todo/blob/master/backlog/reading-list.md)
