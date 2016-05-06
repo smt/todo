@@ -36,11 +36,11 @@ accountability, and versioning. Heavily inspired by [Una Kravets].
 
 ### This week's reading list:
 
-- [ ] [Haskell Book] - Chapter 7: "More functional patterns"
+- [ ] [Haskell Programming from First Principles](http://haskellbook.com)
+    - Chapter 7: "More functional patterns"
 - [ ] Brush up on [redux-saga docs]
 - [ ] Binge on management articles on [Rands in Repose]
 
-  [Haskell Book]: http://haskellbook.com
   [redux-saga docs]: http://yelouafi.github.io/redux-saga/
   [Rands in Repose]: http://randsinrepose.com/archives/category/management/
 
