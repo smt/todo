@@ -25,8 +25,8 @@ Heavily inspired by [Una Kravets].
 - [ ] Hear [quidmonkey]'s talk at [Philly Lambda]
 - [ ] Be on the lookout for nearby inspiration
 - [ ] Get some of my board games ready to auction off
-- [ ] Redirect <stephentudor.com> to <smt.io>
-- [ ] Test old blog post rewrites
+- [x] Redirect <stephentudor.com> to <smt.io>
+- [x] Test old blog post URL redirects
 - [ ] Evaluate CDN/edge caching & invalidation for <smt.io>
 - [ ] Decide whether it's worth it to integrate with Disqus
 - [ ] Run PageSpeed tests on <smt.io>
