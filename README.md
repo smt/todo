@@ -27,7 +27,7 @@ Heavily inspired by [Una Kravets].
 - [ ] Get some of my board games ready to auction off
 - [x] Redirect <stephentudor.com> to <smt.io>
 - [x] Test old blog post URL redirects
-- [ ] Evaluate CDN/edge caching & invalidation for <smt.io>
+- [x] Evaluate CDN/edge caching & invalidation for <smt.io>
 - [ ] Decide whether it's worth it to integrate with Disqus
 - [ ] Run PageSpeed tests on <smt.io>
 - [ ] Commit my [dotfiles] changes - they're getting a little hairy
