@@ -29,6 +29,7 @@ Heavily inspired by [Una Kravets].
 - [x] Evaluate CDN/edge caching & invalidation for <smt.io>
 - [ ] Decide whether it's worth it to integrate with Disqus
 - [x] Run PageSpeed tests on <smt.io>
+- [ ] Optimize critical CSS loading on <smt.io>
 - [ ] Commit my [dotfiles] changes - they're getting a little hairy
 
   [quidmonkey]: https://github.com/quidmonkey
