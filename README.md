@@ -20,7 +20,7 @@ Heavily inspired by [Una Kravets].
 
 ### This week's focus: Connect the dots
 
-- [ ] Call Mom
+- [x] Call Mom
 - [ ] Write blog post
 - [ ] Hear [quidmonkey]'s talk at [Philly Lambda]
 - [ ] Be on the lookout for nearby inspiration
