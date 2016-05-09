@@ -23,7 +23,6 @@ Heavily inspired by [Una Kravets].
 - [x] Call Mom
 - [ ] Write blog post
 - [ ] Hear [quidmonkey]'s talk at [Philly Lambda]
-- [ ] Be on the lookout for nearby inspiration
 - [ ] Get some of my board games ready to auction off
 - [x] Redirect <stephentudor.com> to <smt.io>
 - [x] Test old blog post URL redirects
