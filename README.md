@@ -22,14 +22,14 @@ Heavily inspired by [Una Kravets].
 
 - [x] Call Mom
 - [ ] Write blog post
-- [ ] Hear [quidmonkey]'s talk at [Philly Lambda]
+- [ ] ~~Hear [quidmonkey]'s talk at [Philly Lambda]~~
 - [ ] Get some of my board games ready to auction off
 - [x] Redirect <stephentudor.com> to <smt.io>
 - [x] Test old blog post URL redirects
 - [x] Evaluate CDN/edge caching & invalidation for <smt.io>
 - [ ] Decide whether it's worth it to integrate with Disqus
 - [x] Run PageSpeed tests on <smt.io>
-- [ ] Optimize critical CSS loading on <smt.io>
+- [x] Optimize critical CSS loading on <smt.io>
 - [ ] Commit my [dotfiles] changes - they're getting a little hairy
 
   [quidmonkey]: https://github.com/quidmonkey
