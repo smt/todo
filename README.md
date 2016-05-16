@@ -18,7 +18,7 @@ Heavily inspired by [Una Kravets].
 
 ## May 16, 2016
 
-### This week's focus: Connect the dots
+### This week's focus: Pick up the pieces
 
 - [ ] Call Mom
 - [ ] Write blog post
