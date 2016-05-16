@@ -16,24 +16,19 @@ Heavily inspired by [Una Kravets].
 4. Improve soft skills
 5. Quality time with family
 
-## May 09, 2016
+## May 16, 2016
 
 ### This week's focus: Connect the dots
 
-- [x] Call Mom
+- [ ] Call Mom
 - [ ] Write blog post
-- [ ] ~~Hear [quidmonkey]'s talk at [Philly Lambda]~~
-- [ ] Get some of my board games ready to auction off
-- [x] Redirect <stephentudor.com> to <smt.io>
-- [x] Test old blog post URL redirects
-- [x] Evaluate CDN/edge caching & invalidation for <smt.io>
 - [ ] Decide whether it's worth it to integrate with Disqus
-- [x] Run PageSpeed tests on <smt.io>
-- [x] Optimize critical CSS loading on <smt.io>
 - [ ] Commit my [dotfiles] changes - they're getting a little hairy
+- [ ] Work from home one day
+- [ ] Photograph three board games for articles
+- [ ] Get my RSS feeds under control
+- [ ] Pay extra taxes :(
 
-  [quidmonkey]: https://github.com/quidmonkey
-  [Philly Lambda]: http://www.meetup.com/Philly-Lambda/events/230810382/
   [dotfiles]: https://github.com/smt/dotfiles
 
 ### This week's reading list:
@@ -48,7 +43,6 @@ Heavily inspired by [Una Kravets].
 
 ### Things I'll do in the future:
 
-- [ ] Get my RSS feeds under control
 - [ ] Corale my Twitter followings
 - [ ] Play with [Huginn]
 - [ ] Build an app with [Elixir]
