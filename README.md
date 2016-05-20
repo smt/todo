@@ -47,6 +47,7 @@ Heavily inspired by [Una Kravets].
 - [ ] Play with [Huginn]
 - [ ] Build an app with [Elixir]
 - [ ] Build an app with [Elm]
+- [ ] Investigate running ZNC over SSL
 
   [Huginn]: https://github.com/cantino/huginn
   [Elixir]: http://elixir-lang.org/
