@@ -20,14 +20,14 @@ Heavily inspired by [Una Kravets].
 
 ### This week's focus: Pick up the pieces
 
-- [ ] Call Mom
+- [x] Call Mom
 - [ ] Write blog post
 - [ ] Decide whether it's worth it to integrate with Disqus
 - [ ] Commit my [dotfiles] changes - they're getting a little hairy
-- [ ] Work from home one day
+- [x] Work from home one day
 - [ ] Photograph three board games for articles
 - [ ] Get my RSS feeds under control
-- [ ] Pay extra taxes :(
+- [x] Pay extra taxes :(
 
   [dotfiles]: https://github.com/smt/dotfiles
 
