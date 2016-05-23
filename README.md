@@ -16,18 +16,16 @@ Heavily inspired by [Una Kravets].
 4. Improve soft skills
 5. Quality time with family
 
-## May 16, 2016
+## May 23, 2016
 
-### This week's focus: Pick up the pieces
+### This week's focus: Summertime
 
-- [x] Call Mom
+- [ ] Call Mom
 - [ ] Write blog post
-- [ ] Decide whether it's worth it to integrate with Disqus
+- [ ] Prepare grill for first cookout of the summer
 - [ ] Commit my [dotfiles] changes - they're getting a little hairy
-- [x] Work from home one day
 - [ ] Photograph three board games for articles
 - [ ] Get my RSS feeds under control
-- [x] Pay extra taxes :(
 
   [dotfiles]: https://github.com/smt/dotfiles
 
