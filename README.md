@@ -16,13 +16,12 @@ Heavily inspired by [Una Kravets].
 4. Improve soft skills
 5. Quality time with family
 
-## May 23, 2016
+## May 30, 2016
 
-### This week's focus: Summertime
+### This week's focus: Crunchtime
 
 - [ ] Call Mom
 - [ ] Write blog post
-- [ ] Prepare grill for first cookout of the summer
 - [ ] Commit my [dotfiles] changes - they're getting a little hairy
 - [ ] Photograph three board games for articles
 - [ ] Get my RSS feeds under control
@@ -43,11 +42,13 @@ Heavily inspired by [Una Kravets].
 
 - [ ] Corale my Twitter followings
 - [ ] Play with [Huginn]
+- [ ] Play with [IPFS]
 - [ ] Build an app with [Elixir]
 - [ ] Build an app with [Elm]
 - [ ] Investigate running ZNC over SSL
 
   [Huginn]: https://github.com/cantino/huginn
+  [IPFS]: https://ipfs.io
   [Elixir]: http://elixir-lang.org/
   [Elm]: http://elm-lang.org/
 
