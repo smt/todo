@@ -30,7 +30,7 @@ Heavily inspired by [Una Kravets].
 
 ### This week's reading list:
 
-- [ ] [Haskell Programming from First Principles](http://haskellbook.com)
+- [x] [Haskell Programming from First Principles](http://haskellbook.com)
     - Chapter 7: "More functional patterns"
 - [ ] Brush up on [redux-saga docs]
 - [ ] Binge on management articles on [Rands in Repose]
@@ -43,12 +43,16 @@ Heavily inspired by [Una Kravets].
 - [ ] Corale my Twitter followings
 - [ ] Play with [Huginn]
 - [ ] Play with [IPFS]
+- [ ] Play with [Twilio]
+- [ ] Explore [MobX]
 - [ ] Build an app with [Elixir]
 - [ ] Build an app with [Elm]
 - [ ] Investigate running ZNC over SSL
 
   [Huginn]: https://github.com/cantino/huginn
   [IPFS]: https://ipfs.io
+  [Twilio]: https://www.twilio.com
+  [MobX]: https://mobxjs.github.io/mobx/
   [Elixir]: http://elixir-lang.org/
   [Elm]: http://elm-lang.org/
 
